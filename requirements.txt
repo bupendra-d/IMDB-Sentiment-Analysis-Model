@@ -1,0 +1,8 @@
+# Tech Stack:
+Python
+Pandas
+Numpy
+Scikit-learn
+Joblib
+Natural Language Processing (NLP)  
+TF-IDF Vectorization 
