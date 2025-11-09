@@ -6,16 +6,16 @@ This project is a **Natural Language Processing (NLP)** based machine learning m
 
 # 📂 Project Structure
 
-IMDB-Sentiment-Analysis-Model/
-│
-├── imdb_model.pkl             # Trained Logistic Regression model
-├── imdb_pipeline.pkl          # TF-IDF + Model pipeline
-├── IMDB_dataset.csv           # Original dataset
-├── input.csv                  # Test data for inference
-├── output.csv                 # Model predictions
-├── sentiment_analysis.py      # Main Python script (your code)
-├── requirements.txt           # Dependencies
-└── README.md                  # Project documentation
+IMDB-Sentiment-Analysis-Model:
+
+imdb_model.pkl             # Trained Logistic Regression model
+imdb_pipeline.pkl          # TF-IDF + Model pipeline
+IMDB_dataset.csv           # Original dataset
+input.csv                  # Test data for inference
+output.csv                 # Model predictions
+sentiment_analysis.py      # Main Python script (your code)
+requirements.txt           # Dependencies
+README.md                  # Project documentation
 
 
 # ⚙️ Features
